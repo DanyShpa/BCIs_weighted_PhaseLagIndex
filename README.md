@@ -32,17 +32,7 @@ Due to file size limitations, some large data files are available on Google Driv
 
 [Google Drive Folder](https://drive.google.com/drive/folders/1_tWZ4cRi73jq1s3Sq_2EUIxUapawSEzT?usp=sharing)
 
----
 
-## Usage
-
-(Here you can add instructions on how to run the scripts, dependencies, etc.)
-
----
-
-## License
-
-(Add license info here)
 
 
 
